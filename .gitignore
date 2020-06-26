@@ -2,3 +2,5 @@
 /venv/Lib/site-packages/
 /venv/Scripts/
 /venv/pyvenv.cfg
+/Zookeeper/.idea/vcs.xml
+/Coffee Machine/.idea/
